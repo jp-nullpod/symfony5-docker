@@ -135,7 +135,7 @@ DATABASE_URL=mysql://test_user:test_password@mysql:3306/database_name
 
 ## The Dockerfile
 
-Open [here](../../docker/php/Dockerfile) for the full file.
+Open [here](./docker/php/Dockerfile) for the full file.
 
 Our Dockerfile determines how the image will look like and which packages need to be installed for it to work properly.
 
